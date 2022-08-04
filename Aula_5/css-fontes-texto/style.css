@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+
+header {
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+    padding: 5%, 10%;
+    background-color: #bfbfbf;
+}
+
+header > h1 {
+    font-size: 36px;
+}
+
+header > h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+a {
+    font-family: 'Pt sans', sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+p { 
+    font-family: 'Pt sans', sans-serif;
+    font-size: 16px;
+}
+
+button {
+    font-family: 'Pt sans', sans-serif;
+    font-size: 16px;
+}
+
+.sublinhado {
+    text-decoration: none;
+    color: #95bbdf;
+}
+
+.esquerda{
+    text-align: left;
+}
+
+article {
+    text-align: center;
+}
+
+nav{
+    background-color: black;
+    padding: 20px;
+    margin: 0px, 10px;
+}
+
+nav > a {
+    color: white;
+}
+
+aside {
+    float: right;
+    width: 20%;
+    margin: 5%;
+}
+
+.largura {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
